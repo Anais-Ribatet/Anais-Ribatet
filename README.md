@@ -39,6 +39,7 @@ Mon objectif : devenir **développeuse web**, puis me lancer dans le **développ
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **🎯 Prochainement**
 
@@ -76,7 +77,7 @@ J'ai aussi utilisé Claude pour déboguer, et surtout pour comprendre mes erreur
 
 </div>
 
-**_________________________________________________________________________________________________________________________________________________**
+___
 
 <div align="center">
 
@@ -119,6 +120,7 @@ My goal: become a **web developer**, then move into **video game development** �
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **🎯 Coming Soon**
 
